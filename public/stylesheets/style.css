@@ -101,6 +101,11 @@ body {
 .product-name h4 {
 	margin:0 auto;
 }
+
+.banner {
+	margin-bottom: 20px;
+}
+
 /*---------Review---------*/
 .reviwe {
 	position:relative;
